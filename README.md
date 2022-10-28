@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Repositório criado para estudos de [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
